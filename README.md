@@ -6,6 +6,6 @@ Requirements:
 
 Python 3
 
-PySpark
+PySpark 3.7
 
 Jdk 1.8
